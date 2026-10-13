@@ -1,0 +1,8 @@
+iniconfig
+packaging
+pluggy
+pytest
+
+numpy
+SimpleITK
+pymia
